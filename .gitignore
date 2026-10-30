@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.benchmark_index/
+.benchmark_latency_index/
+
+# Data store
+data/
+
+# Node / Frontend
+client/node_modules/
+client/dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
